@@ -8,7 +8,7 @@
     box-sizing: border-box;
 }
 body{
-   background: url("back10.png")
+   background: url("background.jpg")
     
 }
 .clearfix::after {
